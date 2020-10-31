@@ -1,0 +1,44 @@
+.main{
+    background-color:#141421;
+    width: 100%;
+    height: 65%;
+}
+.social-bar{
+    width: 5%;
+    vertical-align: middle;
+    background-color: #262626;
+    text-align: center;
+    display: inline-block;
+    border-left: 0px;
+    border-right: 1px;
+    border-radius: 10px;
+}
+.searching{
+    display: inline-block;
+    width: 90%;
+    text-align: center;
+}
+
+.search-bar{
+    width: 45%;
+    border: 1px;
+    height: 7%;
+    border-radius: 13px;
+    background-color: #333333;
+    color: white;
+    padding-left: 10px;
+}
+.search-button{
+    width: 10%;
+    height: 7%;
+    background-color: #333333;
+    color: white;
+    border-color: #1CDC9A;
+}
+.widgets{
+    width: 100%;
+    height: 50%;
+}
+.tradingview-widget-container{
+    display: inline-block;
+}
